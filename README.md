@@ -1,1 +1,1 @@
-# AI_outfit_rec
+AI_outfit_recomendation demo
